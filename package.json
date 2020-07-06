@@ -4,7 +4,7 @@
   "author": "SullyD64",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sullyd64/eleventycomputed-bug.git"
+    "url": "git+https://github.com/sullyd64/eleventy-computed-data-bug.git"
   },
   "main": ".eleventy.js",
   "scripts": {
